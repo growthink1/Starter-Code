@@ -1,4 +1,4 @@
-# LazarusAI
+# AI for beginners
 Submission of representative code
 
 These are older code files and only portions of code bases which are shareable. A description of each notebook is below:
